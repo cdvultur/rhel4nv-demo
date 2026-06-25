@@ -1,4 +1,4 @@
-#OCP4NV GPU Virtualization & Containerizatin Demo
+# OCP4NV GPU Virtualization & Containerizatin Demo
 
 This repository documents the deployment steps for enabling NVIDIA GPU virtualization on OpenShift using RHEL for NVIDIA (RHEL4NV) with GB200 hardware.
 
